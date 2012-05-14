@@ -1,0 +1,9 @@
+{
+  "name": "resque-graphite",
+  "version": "0.0.1",
+  "dependencies": {
+    "redis": "0.7.1",
+    "graphite": "0.0.6",
+    "queue-async": "0.0.2"
+  }
+}
